@@ -24,6 +24,11 @@
       "name": "Black Adam",
       "alterEgo": "Dwayne Johnson",
       "id": 5
+    },
+    {
+      "name": "Deadpool",
+      "alterEgo": "Ryan Reynolds",
+      "id": 6
     }
   ],
   "friends": [
